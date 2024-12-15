@@ -1,2 +1,2 @@
 # Interferometry
-Holomony of that being Fourier Transform Reconstruction 
+Holomony of that in Fourier Transform Reconstruction 
